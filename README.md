@@ -1,10 +1,10 @@
 <br>
 
-<img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo" style="margin-top:50px"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/640px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV logo" style="margin-top:50px"></img>
 
-# Welcome to Streamlit 👋
+# Welcome to this repository! 👋
 
-**A faster way to build and share data apps.**
+**This is a simple application that detects your face using the [Haarcascade Frontal face](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml) from OpenCV library**
 
 ## What is Streamlit?
 
