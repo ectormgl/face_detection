@@ -4,7 +4,7 @@
 
 # Welcome to this repository! 👋
 
-**This is a simple application that detects your face using the [Haarcascade Frontal face](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml) from OpenCV library**
+**This is a very simplistic application that detects your face using the [Haarcascade Frontal face](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml) from OpenCV library**
 
 ## What is Haarcascade?
 
