@@ -28,7 +28,9 @@ pip install -r requirements.txt
 python ./main.py
 ```
 - **Expected Result:** This what the expected result look like:
-
+<p align="center">
+  <a href="" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ectormgl/face_detection/main/data/example.png" alt="example running" /> </a> 
+</p>
 
 ### This is my first project using Computer Vision and I working so hard to keep my profile update with new projects!
 Thanks for being here!
